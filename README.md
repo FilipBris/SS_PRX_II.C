@@ -15,6 +15,6 @@ https://filipbris.github.io/SS_PRX_II.C/index.html
 - publikovanie stránky cez GitHub Pages
 
 ## Ostatné pokusy
-[skúšal som obrázky](https://filipbris.github.io/SS_PRX_II.C/04_tema/obrazky_html)
+[skúšal som obrázky](https://filipbris.github.io/SS_PRX_II.C/04_tema/obrazky.html)
 
-[nejaký pokus](https://filipbris.github.io/SS_PRX_II.C/04_tema/miniprojekt_index.html)
+[nejaký pokus](https://filipbris.github.io/SS_PRX_II.C/04_tema/rohace.html)
