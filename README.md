@@ -16,4 +16,5 @@ https://filipbris.github.io/SS_PRX_II.C/index.html
 
 ## Ostatné pokusy
 [skúšal som obrázky](https://filipbris.github.io/SS_PRX_II.C/04_tema/obrazky_html)
+
 [nejaký pokus](https://filipbris.github.io/SS_PRX_II.C/04_tema/miniprojekt_index.html)
