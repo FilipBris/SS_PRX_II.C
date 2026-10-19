@@ -13,3 +13,7 @@ https://filipbris.github.io/SS_PRX_II.C/index.html
 - základnú schému HTML dokumentu (DOCTYPE, html, head, body)
 - význam <title>, charset="UTF-8" a lang="sk"
 - publikovanie stránky cez GitHub Pages
+
+## Ostatné pokusy
+[skúšal som obrázky](https://filipbris.github.io/SS_PRX_II.C/04_tema/obrazky_html)
+[nejaký pokus](https://filipbris.github.io/SS_PRX_II.C/04_tema/miniprojekt_index.html)
