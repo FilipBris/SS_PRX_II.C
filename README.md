@@ -18,3 +18,5 @@ https://filipbris.github.io/SS_PRX_II.C/index.html
 [skúšal som obrázky](https://filipbris.github.io/SS_PRX_II.C/04_tema/obrazky.html)
 
 [nejaký pokus](https://filipbris.github.io/SS_PRX_II.C/04_tema/rohace.html)
+
+Môj Projekt : (https://filipbris.hithub.io/SS_PRX_II.C/08_tema/sportovci.html)
